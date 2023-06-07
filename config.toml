@@ -1,0 +1,9 @@
+[api]
+port = "9000"
+
+[database]
+Host     = "localhost"
+Port     = "5432"
+User     = "postgres"
+Password = "postgres"
+Database = "postgres"
